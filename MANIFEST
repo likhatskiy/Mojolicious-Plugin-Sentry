@@ -1,0 +1,7 @@
+MANIFEST
+README
+LICENSE
+Changes
+Makefile.PL
+lib/Mojolicious/Plugin/Sentry.pm
+t/001_load.t
