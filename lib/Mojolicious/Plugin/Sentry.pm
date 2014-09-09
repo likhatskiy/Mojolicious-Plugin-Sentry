@@ -3,7 +3,7 @@ package Mojolicious::Plugin::Sentry;
 use Mojo::Base 'Mojolicious::Plugin';
 use Sentry::Raven;
 
-our $VERSION = 0.1;
+our $VERSION = 0.11;
 
 has qw/sentry/;
 
